@@ -85,7 +85,6 @@ cd client && npm run dev
 ```
 ---
 
-📸 Screenshots
 ## 📸 Screenshots
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
