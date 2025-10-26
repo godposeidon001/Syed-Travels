@@ -98,8 +98,8 @@ Frontend & Backend Developer
 
 ⭐ Show Your Support
 If you like this project:
-⭐ Star the repo
-🐛 Report bugs
-💡 Suggest features
+- ⭐ Star the repo
+- 🐛 Report bugs
+- 💡 Suggest features
 
 Every contribution means a lot 🙌
