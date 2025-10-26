@@ -1,0 +1,5 @@
+echo "client-side/node_modules" >> .gitignore
+echo "server-side/node_modules" >> .gitignore
+echo "*.env" >> .gitignore
+echo "client-side/dist" >> .gitignore
+echo "server-side/dist" >> .gitignore
