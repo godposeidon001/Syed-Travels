@@ -91,7 +91,7 @@ cd client && npm run dev
 
 🧑‍💻 Developer
 
-Syed Ali 
+Syed Ali  
 Frontend & Backend Developer
 
 ---
