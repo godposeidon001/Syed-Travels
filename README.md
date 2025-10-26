@@ -48,27 +48,6 @@ This project demonstrates **modern MERN-stack practices**, **secure API design**
 
 ---
 
-## 🗂️ Project Structure
-
-Syed-Travels/
-├── client/ # React Frontend
-│ ├── src/
-│ │ ├── components/ # Reusable UI Components
-│ │ ├── pages/ # Home, Spots, Booking, etc.
-│ │ └── context/ # Auth & Booking Contexts
-│ └── package.json
-│
-├── server/ # Express Backend
-│ ├── index.js
-│ ├── routes/
-│ ├── middleware/
-│ └── .env.example
-│
-├── README.md
-└── vercel.json
-
----
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repo
