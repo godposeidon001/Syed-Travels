@@ -86,6 +86,19 @@ cd client && npm run dev
 ---
 
 📸 Screenshots
+## 📸 Screenshots
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|--------------|--------------|--------------|
+| ![Screenshot 676](https://i.ibb.co.com/kssWcDSD/Screenshot-676.png) | ![Screenshot 677](https://i.ibb.co.com/fG1NBzRj/Screenshot-677.png) | ![Screenshot 678](https://i.ibb.co.com/TqvqtRGQ/Screenshot-678.png) |
+
+| Screenshot 4 | Screenshot 5 | Screenshot 6 |
+|--------------|--------------|--------------|
+| ![Screenshot 679](https://i.ibb.co.com/kgLvHGhr/Screenshot-679.png) | ![Screenshot 680](https://i.ibb.co.com/p6FPj8qH/Screenshot-680.png) | ![Screenshot 681](https://i.ibb.co.com/N2cCwQbf/Screenshot-681.png) |
+
+| Screenshot 7 |
+|--------------|
+| ![Screenshot 682](https://i.ibb.co.com/C5Rb8rXh/Screenshot-682.png) |
 
 ---
 
